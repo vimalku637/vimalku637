@@ -11,7 +11,7 @@
 - 💼 Android Stack: **Kotlin, Java, Jetpack Compose, MVI, Firebase, Firestore**  
 - 🌱 Learning: **Python for Web Development (Flask, FastAPI)**  
 - 📲 Focused on: **App Performance, Clean Architecture, and User Experience**  
-- 📫 Reach me at: **vimal.email@example.com**  
+- 📫 Reach me at: **vimalku637@gmail.com**  
 - 💡 Fun fact: I build apps faster than chai gets cold ☕
 
 ---
