@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vimalkumar&show_icons=true&theme=radical" width="48%" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkumar&layout=compact&theme=radical" width="48%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalkumar&langs_count=5&layout=compact&theme=radical&hide=html,css,javascript&custom_title=Top%20Languages%20(Java%20%26%20Kotlin%20Focused)" width="48%" />
 </p>
 
 ---
