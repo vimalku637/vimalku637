@@ -8,9 +8,10 @@
 ---
 
 - 🔭 Currently building: **Microfinance App** for small retail business loans  
-- 💼 Android Stack: **Kotlin, Java, Jetpack Compose, MVI, Firebase, Firestore**  
-- 🌱 Learning: **Python for Web Development (Flask, FastAPI)**  
-- 📲 Focused on: **App Performance, Clean Architecture, and User Experience**  
+- 💼 Android Stack: **Kotlin, Java, Jetpack Compose, MVI, ViewModel, LiveData, Coroutines, Firebase, Firestore**  
+- 🌱 Learning: **Python for Web Development (Flask, FastAPI)**
+- 🌱 Learning: **Dart for Flutter App Development**
+- 📲 Focused on: **App Performance, Clean Architecture, Battery & Memory Optimization and User Experience**  
 - 📫 Reach me at: **vimalku637@gmail.com**  
 - 💡 Fun fact: I build apps faster than chai gets cold ☕
 
@@ -25,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
 </p>
 
 ---
