@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vimal Kumar</h1>
-<h3 align="center">🚀 Android Developer | Firebase Fan | Microfinance Tech Builder | Learning Flutter Dev</h3>
+<h3 align="center">🚀 Android Developer | Firebase Fan | Microfinance Tech Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vimalkumar&label=Profile%20views&color=0e75b6&style=flat" alt="vimalkumar" />
@@ -8,7 +8,7 @@
 ---
 
 - 🔭 Currently building: **Microfinance App** for small retail business loans  
-- 💼 Android Stack: **Kotlin, Java, Jetpack Compose, MVI, ViewModel, LiveData, Coroutines, Firebase, Firestore**  
+- 💼 Android Stack: **Kotlin, Java, Jetpack Compose, MVVM, ViewModel, LiveData, Coroutines, Firebase, Firestore**  
 - 🌱 Learning: **Python for Web Development (Flask, FastAPI)**
 - 🌱 Learning: **Dart for Flutter App Development**
 - 📲 Focused on: **App Performance, Clean Architecture, Battery & Memory Optimization and User Experience**  
