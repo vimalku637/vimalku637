@@ -9,7 +9,6 @@
 
 - 🔭 Currently building: **Microfinance App** for small retail business loans  
 - 💼 Android Stack: **Kotlin, Java, Jetpack Compose, MVVM, ViewModel, LiveData, Coroutines, Firebase, Firestore**  
-- 🌱 Learning: **Python for Web Development (Flask, FastAPI)**
 - 🌱 Learning: **Dart for Flutter App Development**
 - 📲 Focused on: **App Performance, Clean Architecture, Battery & Memory Optimization and User Experience**  
 - 📫 Reach me at: **vimalku637@gmail.com**  
